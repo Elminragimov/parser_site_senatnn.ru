@@ -1,6 +1,6 @@
 # parser_site_senatnn.ru
 Parser_senat.py 
-* Парсит каталог изделий 'Кольца' с сайта
+* Парсит каталог изделий 'Кольца' с сайта senatnn.ru
 
 Используются  библиотеки requests и BeautifulSoup
 ____
